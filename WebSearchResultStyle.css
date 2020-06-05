@@ -1,0 +1,29 @@
+body{
+	width: 20vw;
+}
+
+#container{
+	text-align: center;
+	height: 80vh;
+	width:  20vw;
+	border: 2px solid #e5e5e5;
+}
+#form-body{
+	position: fixed;
+	top: 77vh;
+	width: 20%;
+}
+input{
+	width: 80%;
+}
+	/*result styling*/
+#result{
+	width: 18vw;
+	height: 
+}
+.response-link{
+text-decoration: none;
+}
+.response-title{
+font-size: 1em;
+}

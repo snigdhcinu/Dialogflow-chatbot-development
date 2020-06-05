@@ -1,0 +1,18 @@
+{
+  "name": "dialogflow-bot",
+  "version": "1.0.0",
+  "description": "Creating customizablt chat bot using dialogflow and node.js client v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Snigdh Shourya",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "dialogflow": "^1.2.0",
+    "express": "^4.17.1",
+    "uuid": "^8.1.0"
+  }
+}
